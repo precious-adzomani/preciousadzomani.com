@@ -15,7 +15,7 @@ order: 1
 > ### Understanding Chronic Bank Failures in Minnesota
 > with [Moon Oulatta](https://moonconomics.github.io/webpage/) · *October 2025*
 >
-> [Paper](/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
+> [Paper](https://preciousadzomani.com/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
 {: .prompt-normal}
 
 ---
@@ -23,5 +23,4 @@ order: 1
 ## Works in Progress
 
 > ### Fighting Over a Fixed Pie: Zero-Sum Thinking and the New Keynesian Phillips Curve
-> <span class="text-muted small">Manuscript in preparation.</span>
 {: .prompt-normal}
