@@ -14,7 +14,7 @@ permalink: /research/
 ## Publications
 
 > **Understanding Chronic Bank Failures in Minnesota**  
-> *with [Moon Oulatta](#)*  
+> *with Moon Oulatta*  
 > October 2025 · Working Paper  
 >  
 > [Paper]({{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
