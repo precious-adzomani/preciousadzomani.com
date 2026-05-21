@@ -28,7 +28,7 @@ Prior to joining KU, I earned my Master's in Economics at Central Michigan Unive
           <i class="fas fa-graduation-cap me-2 mt-1 text-muted"></i>
           <div>
             <strong>Ph.D. in Economics</strong><br>
-            <span class="text-muted small">University of Kansas, 2025 - Present</span>
+            <span class="text-muted small">University of Kansas, 2026 - Present</span>
           </div>
         </div>
       </li>
