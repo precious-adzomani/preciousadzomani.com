@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+icon: fas fa-desktop
 order: 2
 ---
 
