@@ -24,7 +24,7 @@ description: >- # used by seo meta and the atom feed
   PhD Student in Economics at the University of Kansas
 
 # Fill in the protocol & hostname for your site.
-url: "https://precious-adzomani.github.io"
+url: "https://preciousadzomani.com"
 
 github:
   username: precious-adzomani # change to your GitHub username
@@ -152,7 +152,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site (Empty for custom apex domains)
-baseurl: "/preciousadzomani.com"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
