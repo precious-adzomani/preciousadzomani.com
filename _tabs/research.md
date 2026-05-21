@@ -2,6 +2,8 @@
 layout: page
 title: Research
 permalink: /research/
+icon: fas fa-book
+order: 1
 ---
 
 ## Work in Progress
