@@ -14,7 +14,7 @@ order: 1
 > ### Understanding Chronic Bank Failures in Minnesota
 > with [Moon Oulatta](https://moonconomics.github.io/webpage/) · *October 2025*
 >
-> [Paper]({{ site.url }}{{ site.baseurl }}/assets/pdf/papers/Understanding%20Chronic%20Bank%20Failures%20in%20Minnesota.pdf)
+> [Paper]({{ site.url }}{{ site.baseurl }}assets/pdf/papers/Understanding Chronic Bank Failures in Minnesota.pdf)
 {: .prompt-normal }
 ---
 
