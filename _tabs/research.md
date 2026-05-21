@@ -4,17 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-## Working Papers
+## Work in Progress
 
-> ### Understanding Chronic Bank Failures in Minnesota
-> *with Moon Oulatta* • <span class="text-muted">October 2025</span>
-> 
-> [Paper]({{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
+> **Fighting Over a Fixed Pie: Zero-Sum Thinking and the New Keynesian Phillips Curve**
 {: .prompt-normal }
 
 ---
 
-## Works in Progress
+## Publications
 
-> ### Fighting Over a Fixed Pie: Zero-Sum Thinking and the New Keynesian Phillips Curve
+> **Understanding Chronic Bank Failures in Minnesota**  
+> *with [Moon Oulatta](#)*  
+> October 2025 · Working Paper  
+>  
+> [Paper]({{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
 {: .prompt-normal }
