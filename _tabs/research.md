@@ -23,5 +23,4 @@ order: 1
 ## Works in Progress
 
 > ### Fighting Over a Fixed Pie: Zero-Sum Thinking and the New Keynesian Phillips Curve
-> <span class="text-muted small">Manuscript in preparation.</span>
 {: .prompt-normal }
