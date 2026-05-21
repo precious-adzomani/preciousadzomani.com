@@ -16,7 +16,9 @@ timezone:
 
 title: Precious Adzomani # the main title
 
-tagline: PhD Student in Economics # it will display as the subtitle
+tagline: PhD Student in Economics
+description: >-
+  University of Kansas | Department of Economics
 
 description: >- # used by seo meta and the atom feed
   PhD Student in Economics at the University of Kansas
