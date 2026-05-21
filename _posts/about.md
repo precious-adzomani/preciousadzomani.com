@@ -1,0 +1,55 @@
+---
+title: Welcome to My Webpage!
+date: 2026-05-20 00:00:00 +0000
+categories: [Introduction]
+tags: [welcome]
+pin: true
+---
+
+This is Precious Adzomani, an economics enthusiast from Ghana and a first year Phd Economics student at the **University of Kansas**. 
+
+Prior to joining KU, I earned my Master's in Economics at Central Michigan University and my Bachelor's in Economics and Insurance at the University of Ghana. 
+
+<div class="row mt-4">
+  <div class="col-md-6 mb-4">
+    <h3 class="fw-bold" style="font-size: 1.4rem;">Interests</h3>
+    <ul class="list-unstyled">
+      <li class="mb-2"><i class="fas fa-globe me-2 text-muted"></i> Macroeconomics</li>
+      <li class="mb-2"><i class="fas fa-chart-bar me-2 text-muted"></i> Monetary Economics</li>
+      <li class="mb-2"><i class="fas fa-globe-americas me-2 text-muted"></i> International Economics</li>
+    </ul>
+  </div>
+
+  <div class="col-md-6 mb-4">
+    <h3 class="fw-bold" style="font-size: 1.4rem;">Education</h3>
+    <ul class="list-unstyled">
+      <li class="mb-3">
+        <div class="d-flex align-items-start">
+          <i class="fas fa-graduation-cap me-2 mt-1 text-muted"></i>
+          <div>
+            <strong>Ph.D. in Economics</strong><br>
+            <span class="text-muted small">University of Kansas, 2025 - Present</span>
+          </div>
+        </div>
+      </li>
+      <li class="mb-3">
+        <div class="d-flex align-items-start">
+          <i class="fas fa-graduation-cap me-2 mt-1 text-muted"></i>
+          <div>
+            <strong>M.A. in Economics</strong><br>
+            <span class="text-muted small">Central Michigan University</span>
+          </div>
+        </div>
+      </li>
+      <li class="mb-3">
+        <div class="d-flex align-items-start">
+          <i class="fas fa-graduation-cap me-2 mt-1 text-muted"></i>
+          <div>
+            <strong>B.A. in Economics and Insurance</strong><br>
+            <span class="text-muted small">University of Ghana</span>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
