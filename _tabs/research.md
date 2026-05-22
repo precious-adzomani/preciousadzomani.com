@@ -14,7 +14,7 @@ order: 1
 
 <p><em>with <a href="https://moonconomics.github.io/webpage/" target="_blank">Moon Oulatta</a></em></p>
 
-<p>October 2025 · Working Paper</p>
+<p>October 2025</p>
 
 <p><a href="{{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf">Paper</a></p>
 
