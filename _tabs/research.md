@@ -26,5 +26,5 @@ No publications yet.
 ## Work in Progress
 
 <div style="border-left: 4px solid #e5e5e5; padding-left: 1rem; margin: 1rem 0; line-height: 1.5;">
-<strong>Fighting Over a Fixed Pie: Zero-Sum Thinking and the New Keynesian Phillips Curve</strong>
+No wip yet.
 </div>
