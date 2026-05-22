@@ -4,7 +4,11 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.5"
 
-gem "sass-embedded", "1.69.5"
+# Force safe version of sass
+gem "sass-embedded", "= 1.69.5"
+
+# Required by Chirpy
+gem "jekyll", "~> 4.3"
 
 gem "html-proofer", "~> 5.0", group: :test
 
