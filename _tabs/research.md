@@ -15,7 +15,6 @@ October 2025<br>
 <a href="{{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf">Paper</a>
 </div>
 
----
 
 ## Publications
 
@@ -23,7 +22,6 @@ October 2025<br>
 <em>No publications yet.</em>
 </div>
 
----
 
 ## Work in Progress
 
