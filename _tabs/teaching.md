@@ -19,5 +19,5 @@ Details to be added
 <strong>FIN 332 - Managerial Finance</strong><br>
 Spring 2025 · Teaching Assistant for 
 <a href="https://www.cmich.edu/people/ABU-AMIN" target="_blank">Prof. Abu Amin</a><br>
-Cash Flow Analysis, Risk and Return, Asset Pricing Models, Financial Forecasting
+Topics: Cash Flow Analysis, Risk and Return, Asset Pricing Models, Financial Forecasting
 </div>
