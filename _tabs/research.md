@@ -9,7 +9,7 @@ order: 1
 ## Working Papers
 
 > **Understanding Chronic Bank Failures in Minnesota**  
-> *with Moon Oulatta*  
+> *with [Moon Oulatta](https://moonconomics.github.io/webpage/)*  
 > October 2025 · Working Paper  
 >  
 > [Paper]({{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
