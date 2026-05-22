@@ -11,7 +11,6 @@ order: 2
 > *Details to be added*  
 {: .prompt-normal }
 
----
 
 ## Central Michigan University
 
