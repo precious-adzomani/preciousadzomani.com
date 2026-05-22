@@ -1,0 +1,13 @@
+/* Hide Chirpy theme credit on the right side of footer */
+footer .footer-right,
+footer .license,
+footer .site-source,
+footer .powered-by,
+footer .copyright + div {
+  display: none !important;
+}
+
+/* Center footer text */
+footer {
+  text-align: center !important;
+}
