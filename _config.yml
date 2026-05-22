@@ -140,6 +140,8 @@ assets:
     env: # [development | production]
   js:
     - /assets/js/lock-images.js
+  css:
+    - /assets/css/custom.css
 
 pwa:
   enabled: true # The option for PWA feature (installable)
