@@ -7,8 +7,8 @@ order: 3
 ---
 
 <iframe 
-  src="{{ site.url }}/assets/pdf/Precious_Adzomani_CV.pdf" 
+  src="{{ site.url }}/assets/pdf/PRECIOUS_ADZOMANI_CV.pdf" 
   width="100%" 
-  height="1000px"
-  style="border: 1px solid #ccc;">
+  height="1100px"
+  style="border: 2px solid #222; border-radius: 8px;">
 </iframe>
