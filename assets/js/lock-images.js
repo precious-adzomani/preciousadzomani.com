@@ -1,4 +1,4 @@
-// Disable right-click on images only
+// Disable right-click on images
 document.addEventListener("contextmenu", function (event) {
   if (event.target.tagName === "IMG") {
     event.preventDefault();
