@@ -7,7 +7,6 @@ order: 1
 ---
 
 ## Working Papers
-
 > **Understanding Chronic Bank Failures in Minnesota**  
 > *with [Moon Oulatta](https://moonconomics.github.io/webpage/)*  
 > October 2025  
@@ -17,14 +16,12 @@ order: 1
 
 
 ## Publications
-
 > *No publications yet.*
 > 
 {: .prompt-normal }
 
 
 ## Work in Progress
-
-> **Fighting Over a Fixed Pie: Zero-Sum Thinking and the New Keynesian Phillips Curve**
+> *No WIP yet.*
 > 
 {: .prompt-normal }
