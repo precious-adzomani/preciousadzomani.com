@@ -15,14 +15,12 @@ order: 1
 > [Paper]({{ site.url }}/assets/pdf/papers/Understanding_Chronic_Bank_Failures_in_Minnesota.pdf)
 {: .prompt-normal }
 
----
 
 ## Publications
 
 > *No publications yet.*
 {: .prompt-normal }
 
----
 
 ## Work in Progress
 
