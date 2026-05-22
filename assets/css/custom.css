@@ -11,3 +11,18 @@ footer .copyright + div {
 footer {
   text-align: center !important;
 }
+
+/* ========================= */
+/* IMAGE PROTECTION (ADD THIS BELOW) */
+/* ========================= */
+
+/* Disable selection and dragging for ALL images */
+img {
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+/* Specifically target sidebar avatar */
+.sidebar .avatar img {
+  pointer-events: none;  /* blocks right-click interaction */
+}
