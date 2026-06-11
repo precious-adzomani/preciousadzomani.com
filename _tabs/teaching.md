@@ -9,7 +9,9 @@ order: 2
 ## University of Kansas
 
 <div style="border-left: 4px solid #e5e5e5; padding-left: 1rem; margin: 1rem 0; line-height: 1.5;">
-Details to be added
+<strong>ECON 142 - Principles of Microeconomics</strong><br>
+Fall 2026 . Teaching Assistant for <a href = "https://ipsr.ku.edu/people/william-duncan" target="_blank">Prof. William Duncan</a><br>
+Topics: 
 </div>
 
 
